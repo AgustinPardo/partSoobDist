@@ -1,5 +1,5 @@
 # partSoobDist
 
-The site si served here:
+The site is served here:
 
 https://agustinpardo.github.io/partSoobDist/
